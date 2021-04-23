@@ -82,7 +82,7 @@ sudo bash -c 'echo LC_ADDRESS=\"zh_CN\" >> /etc/environment'
 sudo bash -c 'echo LC_TELEPHONE=\"zh_CN\" >> /etc/environment'
 sudo bash -c 'echo LC_MEASUREMENT=\"zh_CN\" >> /etc/environment'
 sudo bash -c 'echo LC_IDENTIFICATION=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_ALL=\"zh_CN.UTF-8\" >> /etc/environment'
+sudo bash -c 'echo LC_ALL=\"zh_CN.UTF-8\" >> /etc/environment'
 #修改环境文件(环境变量(所有用户))
 sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" >> /etc/profile'
 
