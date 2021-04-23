@@ -45,46 +45,46 @@ sudo apt install net-tools # ifconfig
 sudo apt install iputils-ping # ping
 
 #安装中文字体
-#sudo /usr/share/locales/install-language-pack zh_CN
-#sudo apt-get install language-pack-zh-hans
-#sudo apt-get install ttf-wqy-zenhei
-#sudo apt-get install ttf-wqy-*
-#sudo apt-get install xfonts-wqy
-#sudo apt-get install fonts-wqy-*
-#sudo apt install $(check-language-support)
+sudo /usr/share/locales/install-language-pack zh_CN
+sudo apt-get install language-pack-zh-hans
+sudo apt-get install ttf-wqy-zenhei
+sudo apt-get install ttf-wqy-*
+sudo apt-get install xfonts-wqy
+sudo apt-get install fonts-wqy-*
+sudo apt install $(check-language-support)
 #中文界面安装
-#sudo apt-get install ubuntu-desktop
-#sudo apt-get install libx11*
-#sudo apt-get install libx11-dev
+sudo apt-get install ubuntu-desktop
+sudo apt-get install libx11*
+sudo apt-get install libx11-dev
 
 #修改配置文件
-#sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" > /etc/default/locale'
-#sudo bash -c 'echo LANGUAGE=\"zh_CN:zh\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_NUMERIC=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_TIME=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_MONETARY=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_PAPER=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_NAME=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_ADDRESS=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_TELEPHONE=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_MEASUREMENT=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_IDENTIFICATION=\"zh_CN\" >> /etc/default/locale'
-#sudo bash -c 'echo LC_ALL=\"zh_CN.UTF-8\" >> /etc/default/locale'
+sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" > /etc/default/locale'
+sudo bash -c 'echo LANGUAGE=\"zh_CN:zh\" >> /etc/default/locale'
+sudo bash -c 'echo LC_NUMERIC=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_TIME=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_MONETARY=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_PAPER=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_NAME=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_ADDRESS=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_TELEPHONE=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_MEASUREMENT=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_IDENTIFICATION=\"zh_CN\" >> /etc/default/locale'
+sudo bash -c 'echo LC_ALL=\"zh_CN.UTF-8\" >> /etc/default/locale'
 #修改环境文件(环境变量(当前用户))
-#sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" >> /etc/environment'
-#sudo bash -c 'echo LANGUAGE=\"zh_CN:zh\" >> /etc/environment'
-#sudo bash -c 'echo LC_NUMERIC=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_TIME=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_MONETARY=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_PAPER=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_NAME=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_ADDRESS=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_TELEPHONE=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_MEASUREMENT=\"zh_CN\" >> /etc/environment'
-#sudo bash -c 'echo LC_IDENTIFICATION=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" >> /etc/environment'
+sudo bash -c 'echo LANGUAGE=\"zh_CN:zh\" >> /etc/environment'
+sudo bash -c 'echo LC_NUMERIC=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_TIME=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_MONETARY=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_PAPER=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_NAME=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_ADDRESS=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_TELEPHONE=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_MEASUREMENT=\"zh_CN\" >> /etc/environment'
+sudo bash -c 'echo LC_IDENTIFICATION=\"zh_CN\" >> /etc/environment'
 #sudo bash -c 'echo LC_ALL=\"zh_CN.UTF-8\" >> /etc/environment'
 #修改环境文件(环境变量(所有用户))
-#sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" >> /etc/profile'
+sudo bash -c 'echo LANG=\"zh_CN.UTF-8\" >> /etc/profile'
 
 #} &> /dev/null &&
 printf "\nSetup Complete " >&2 ||
