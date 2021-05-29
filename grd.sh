@@ -39,7 +39,7 @@ sudo apt install --assume-yes --fix-broken
 #安装文件管理器和文件编辑器
 sudo apt install nautilus nano -y 
 #添加用户到远程桌面用户组
-sudo adduser yangdunyu chrome-remote-desktop
+sudo adduser dunyu chrome-remote-desktop
 #安装网络命令支持
 sudo apt install net-tools # ifconfig
 sudo apt install iputils-ping # ping
