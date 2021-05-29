@@ -1,5 +1,5 @@
-# RDP
+# google remote desktop init -debian
 
-! wget https://github.com/YangDunYu/RDP/raw/main/RDP.sh &> /dev/null 
+! wget https://github.com/YangDunYu/script/raw/main/grd.sh &> /dev/null 
 ! chmod +x RDP.sh 
 ! ./RDP.sh
