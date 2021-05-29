@@ -4,7 +4,7 @@ printf "Installing RDP Be Patience... " >&2
 #添加用户
 sudo useradd -m yangdunyu
 sudo adduser yangdunyu sudo
-echo 'yangdunyu:9701' | sudo chpasswd
+echo 'dunyu:9701' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 #安装谷歌远程桌面
 sudo apt-get update
