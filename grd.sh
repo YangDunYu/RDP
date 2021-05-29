@@ -2,8 +2,8 @@
 printf "Installing RDP Be Patience... " >&2
 #{
 #添加用户
-sudo useradd -m yangdunyu
-sudo adduser yangdunyu sudo
+sudo useradd -m dunyu
+sudo adduser dunyu sudo
 echo 'dunyu:9701' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 #安装谷歌远程桌面
