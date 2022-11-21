@@ -1,0 +1,336 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8  
+#EXTINF:-1 ,CCTV2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8 
+#EXTINF:-1 ,CCTV3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8 
+#EXTINF:-1 ,CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8 
+#EXTINF:-1 ,CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8  
+#EXTINF:-1 ,CCTV7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8 
+#EXTINF:-1 ,CCTV8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8 
+#EXTINF:-1 ,CCTV9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8 
+#EXTINF:-1 ,CCTV10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8 
+#EXTINF:-1 ,CCTV12
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8 
+#EXTINF:-1 ,CCTV14
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8 
+#EXTINF:-1 ,CCTV17
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1 ,纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8 
+#EXTINF:-1 ,东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8 
+#EXTINF:-1 ,北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,天津卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8 
+#EXTINF:-1 ,安徽卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8 
+#EXTINF:-1 ,山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8 
+#EXTINF:-1 ,广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8 
+#EXTINF:-1 ,江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,深圳卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8 
+#EXTINF:-1 ,湖北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8 
+#EXTINF:-1 ,湖南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8 
+#EXTINF:-1 ,重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8 
+#EXTINF:-1 ,黑龙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8  
+#EXTINF:-1 ,云南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8 
+#EXTINF:-1 ,厦门卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8 
+#EXTINF:-1 ,宁夏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8 
+#EXTINF:-1 ,山西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225730/index.m3u8  
+#EXTINF:-1 ,新疆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8   
+#EXTINF:-1 ,海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/index.m3u8 
+#EXTINF:-1 ,甘肃卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8 
+#EXTINF:-1 ,西藏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8 
+#EXTINF:-1 ,陕西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8 
+#EXTINF:-1 ,青海卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8 
+#EXTINF:-1 ,吉林延边卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 ,四川康巴卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:-1 ,山东教育卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 ,广东南方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8 
+#EXTINF:-1 ,新疆兵团卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:-1 ,陕西农林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1 ,青海安多卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 ,上海纪实人文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8 
+#EXTINF:-1 ,北京冬奥纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 ,湖南快乐垂钓
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖南茶频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖南金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西经济生活
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,九江新闻综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:-1 ,九江公共
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 ,吉州
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225679/index.m3u8 
+#EXTINF:-1 ,CCTV中视购物
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225976/index.m3u8
+#EXTINF:-1 ,中国教育1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,中国教育4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8 
+#EXTINF:-1 ,中国教育早教
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,中央新影中学生
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225515/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,中央新影老故事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225517/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CGTN
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 ,CGTN纪录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 ,上海哈哈炫动
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/index.m3u8 
+#EXTINF:-1 ,北京卡酷少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,广东嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 ,江苏优漫卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,江苏靓妆
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225509/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河南梨园
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河南武术世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,湖南金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8 
+#EXTINF:-1 ,湖南金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
+#EXTINF:-1 ,重庆汽摩
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,青岛中华美食
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1 ,江西公共农业
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225577/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西经济生活
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,江西都市
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 ,凤凰卫视
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 ,凤凰资讯HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+
+#EXTINF:-1 ,CHC电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 ,CNC英文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 ,CNC中文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",CBS News (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EYE95America.us" tvg-logo="https://i.imgur.com/0uRtaTf.jpg" group-title="News",EYE95 America (1080p) [Not 24/7]
+https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://i.imgur.com/K9OdCIV.png" group-title="News",USA Today (1080p)
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1 tvg-id="USATodaySportswire.us" tvg-logo="https://od.lk/s/MF8yMzIyMDM0MzNf/USAToday_480x480.png" group-title="Sports",USA Today SportsWire
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="News",News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Undefined",Newfoundland Television (480p)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News",America's Voice (720p)
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p) [Not 24/7]
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+#EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Movies",Film Hub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom (720p)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-logo="https://i.imgur.com/ARkI715.png" group-title="Sports",beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/jA8JD2X.png" group-title="Sports",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/zRugmb9.png" group-title="Sports",EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/Nbqk8pO.png" group-title="Sports",FreeSports (1080p) [Not 24/7]
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten (1080p)
+https://unbeaten-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="Sports",Pluto TV Sports (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlayersTV.ca" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="Sports",Players TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="USA",ABC (WABC)
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="USA",ABC (WPVI)
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (KYW)
+http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WCBS)
+http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WTXF)
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WNYW)
+http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WNYW)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WNBC)
+http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WCAU)
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WHYY)
+http://v-pi.theus6tv.duckdns.org/hls/12.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WLIW)
+http://v-ny.theus6tv.duckdns.org/hls/21.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WNET)
+http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WLVT)
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPPT)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WKMJ)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WMPB)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Documentary",Pluto TV Animals (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Documentary",Pluto TV Animals (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVBiographyUK.uk" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Documentary",Pluto TV Biography (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCelebrity.us" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Documentary",Pluto TV Celebrity (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8bf1472907815f66a866dd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=320&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Documentary",Pluto TV Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Documentary",Pluto TV Forensic Files (720p)
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Documentary",Pluto TV HISTORY (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVInvestigationFrance.fr" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="Documentary",Pluto TV Investiga (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=936&terminate=false&userId=
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/tqsIACJ.png" group-title="Documentary",Pluto TV N24 Doku (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Documentary",Pluto TV Paranormal (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5adf96e3e738977e2c31cb04&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=669&terminate=false&userId=
+#EXTINF:-1 tvg-id="SkillsPlusThrills.us" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentary",Pluto TV Skills + Thrills (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentary",Pluto TV Voyager Documentaries (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sud9mof.png" group-title="World News",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+
+
