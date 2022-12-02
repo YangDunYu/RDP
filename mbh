@@ -4,6 +4,7 @@
 0x2299   KEY_LEFT      		#向左
 0x22c1   KEY_RIGHT     		#向右
 0x22d2   KEY_DOWN      		#向下
+
 0x2292   KEY_1
 0x2293   KEY_2
 0x22cc   KEY_3
@@ -16,6 +17,7 @@
 0x2287   KEY_0
 0x22da   KEY_DOT         	#输入法/井号
 0x22c0   KEY_BACKSPACE    	#删除
+
 0x2288   KEY_HOME        	#主页
 0x2282   KEY_CONTEXT_MENU 	#菜单
 0x22ce   KEY_ENTER      	#选中/确定
@@ -25,7 +27,7 @@
 0x2280   KEY_VOLUMEUP   	#音量+
 0x2281   KEY_VOLUMEDOWN 	#音量-
 0x229c   KEY_MUTE   		#静音
-0x22f1   KEY_PLAYPAUSE    	播放停止电视按键区的TV/AV键
+0x22f1   KEY_PLAYPAUSE    	#播放停止电视按键区的TV/AV键
 0x2291   KEY_REWIND         #回看/倒带
 0X2283   KEY_FASTFORWARD    #点播/快进
 0x22c3   KEY_EPG			#节目预告
